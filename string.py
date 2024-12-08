@@ -15,6 +15,6 @@ print(t)
 for i in t:
     print(i)
 
-#tuples are imutable
+#tuples are imutable that is the difference between list and tuples
 t[1] = 2
 print(t)
