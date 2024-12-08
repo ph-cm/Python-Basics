@@ -1,4 +1,5 @@
 #Compare variables
+#like equal signs usable comparing lists
 
 a = [1, 2, 3, 4]
 
